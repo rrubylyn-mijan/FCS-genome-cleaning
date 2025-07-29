@@ -4,9 +4,9 @@ This is a detailed step-by-step pipeline to screen and clean genome assemblies u
 
 ---
 
-## 🚀 Step 0: Prepare Environment (e.g., CCAST, ATLAS)
+## Step 0: Prepare Environment (e.g., CCAST, ATLAS)
 
-### ⏩ Log in to your HPC
+### Log in to your HPC
 
 For CCAST or ATLAS, use:
 
