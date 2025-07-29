@@ -276,4 +276,4 @@ blastn -query wheat_gene_ids.txt -db nt -out wheat_blast_results.txt -evalue 1e-
 This guide was written by **Ruby Mijan** as a user-friendly walkthrough for applying NCBI’s FCS tools.
 
 - Tools developed by: [NCBI FCS Team](https://github.com/ncbi/fcs)
-- This documentation only organizes and demonstrates how to apply the tools using real genome data in an HPC workflow.
+> This documentation only organizes and demonstrates how to apply the tools using real genome data in an HPC workflow.
